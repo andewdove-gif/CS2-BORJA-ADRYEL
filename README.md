@@ -1,7 +1,7 @@
 # CS2-BORJA-ADRYEL
-# Student Grade Calculator
+# Electricity Clacular
 ## Description
-This program calculates the average of two activity scores.
+This program calculates your Electricity Bill
 ## Version 1 - Original code without input validation
 - Input: Accepts a student's name and two activity scores.
 - Process: Calculates and displays the average score.
